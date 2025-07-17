@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+scikit-image
+scikit-learn
+pandas
+tifffile
+opencv-python
+cellpose
+skimage
+Pillow
+seaborn
